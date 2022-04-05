@@ -10,4 +10,6 @@ And how to find a nice topic? Something that will keep you motivated? A present 
 
 ## The fonctionalities
 
+The list of inspirational quotes is contained in a .cvs file, and was extracted from the webpage [The 100 Most Inspirational Sports Quotes Of All Time](https://www.keepinspiring.me/100-most-inspirational-sports-quotes-of-all-time/). The quotes are listed in the format 'Author, Quote'.
+
 ## Output example
